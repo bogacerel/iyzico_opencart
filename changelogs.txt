@@ -1,0 +1,6 @@
+
+------ 2014-02-04 / version 1.0.5 --------
++ seperated both single and installment modules.
++ removed dependencies of single and installment modules.
++ sales order history for installment payment.
++ translation changes.
